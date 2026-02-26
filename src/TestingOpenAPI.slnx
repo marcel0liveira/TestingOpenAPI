@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="../LICENSE" />
+    <File Path="../README.md" />
+  </Folder>
   <Project Path="TestingOpenAPI\TestingOpenAPI.csproj" />
 </Solution>
