@@ -1,0 +1,6 @@
+@TestingOpenAPI_HostAddress = http://localhost:8080
+
+GET {{TestingOpenAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
